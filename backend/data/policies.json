@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Refund Policy",
+    "content": "Customers can request a refund within 7 days of delivery if the item is unused and in original packaging. Refunds are processed to the original payment method within 5-7 business days after the returned item passes inspection. If the item is damaged on arrival, customers should report it within 48 hours with photos to be eligible for a refund or replacement."
+  },
+  {
+    "title": "Return & Exchange Policy",
+    "content": "Returns and exchanges are accepted within 7 days of delivery for eligible products. Items must be unused, with tags (if applicable), and include all accessories. Exchanges are subject to stock availability. Certain categories like innerwear, perishables, and customized items are not eligible for return unless received damaged or incorrect."
+  },
+  {
+    "title": "Damaged or Wrong Item Received",
+    "content": "If a customer receives a damaged, defective, or wrong item, they must raise a complaint within 48 hours of delivery. The customer should share photos/videos of the package and product. After verification, we offer a free replacement or a refund as per customer preference, subject to stock availability."
+  },
+  {
+    "title": "Delivery Delay Policy",
+    "content": "If delivery is delayed beyond 5 days from the promised delivery date, the customer can request cancellation and a full refund (if prepaid). For COD orders, the customer may decline delivery. We will also escalate delayed shipments to the courier partner for priority resolution."
+  },
+  {
+    "title": "Order Cancellation Policy",
+    "content": "Orders can be cancelled before they are shipped. If an order has already shipped, cancellation is not guaranteed; the customer can refuse delivery (for COD) or initiate a return after delivery (for prepaid), subject to eligibility and timelines."
+  },
+  {
+    "title": "Warranty & Service",
+    "content": "For products covered under warranty, customers should refer to the brand warranty terms. We can assist in sharing invoice details and guiding the customer to the service center process. Physical damage after delivery may not be covered unless reported within 48 hours as a damaged-on-arrival case."
+  },
+  {
+    "title": "Refund for Shipping Charges",
+    "content": "Shipping charges are refundable only if the return is due to our error (wrong item, damaged on arrival) or if the order was cancelled before shipment. If the customer returns due to preference or size issues (where allowed), shipping charges may not be refundable."
+  },
+  {
+    "title": "Escalation Policy",
+    "content": "If a case is not covered clearly by policy, requires account verification, or involves safety/legal concerns, the agent must escalate the ticket to a senior/human support agent for manual handling."
+  }
+]
