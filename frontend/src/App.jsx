@@ -164,7 +164,7 @@ function App() {
         <div className="titleRow">
           <div>
             <h1>AI-Assisted Support Reply</h1>
-            <p className="subtitle">BM25 policy retrieval + GPT-4o mini drafting</p>
+            {/* <p className="subtitle">BM25 policy retrieval + GPT-4o mini drafting</p> */}
           </div>
           <div className="status">
             {health.loading ? (
